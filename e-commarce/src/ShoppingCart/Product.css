@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+    padding:10px;
+    width: 100%;
+    background-color: #ffff;
+}
+.product img {
+    height: 200px;
+   
+
+}
+.product button{
+    margin-top: 10px;
+    background-color: #ffa500;
+}

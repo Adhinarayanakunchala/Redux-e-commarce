@@ -1,0 +1,8 @@
+.home{
+    background-color: #b8b6b6;
+}
+
+.home >div{
+    display: flex;
+    justify-content: center;
+}
